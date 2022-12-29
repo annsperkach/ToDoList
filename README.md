@@ -1,10 +1,10 @@
 # ToDoList
 A web application with CRUD functionality. 
 Environments used: 
-/br/ ◽ Spring Tool Suite 4
-/br/ ◽ Postman
-/br/◽ PostgreSQL
-/br/ ◽ IntelliJ IDEA
+<br> ◽ Spring Tool Suite 4
+<br> ◽ Postman
+<br>◽ PostgreSQL
+<br> ◽ IntelliJ IDEA
 
 
 All the files and links to run it are in the repository. For clarity, screenshots of the application are attached.
